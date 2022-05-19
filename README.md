@@ -8,3 +8,7 @@ How does it work:
 3) You will find 3 images, one is in BMP format, and the other one is in PNG format.
 4) You will find one .py files where you can modify the code as you like (please don't judge my code).
 5) You will find one white image, which is necessary for the code to run properly(basically the start image).
+
+It could happen that you get an error saying something like 'WB.bmp file not found' in that case you just need to open the whole folder in your IDE.
+
+For any problem feel free to contact me.
